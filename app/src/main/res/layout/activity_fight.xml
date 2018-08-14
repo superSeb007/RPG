@@ -52,7 +52,15 @@
         android:layout_width="270dp"
         android:layout_height="42dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="62dp"
-        tools:layout_editor_absoluteY="413dp" />
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="391dp" />
+
+    <Button
+        android:id="@+id/bt_fight_attaquer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Attaquer"
+        tools:layout_editor_absoluteX="222dp"
+        tools:layout_editor_absoluteY="446dp" />
 
 </android.support.constraint.ConstraintLayout>
